@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlinApp</string>
+    <string name="main_title">Lets find out \nyour developer type!</string>
+    <string name="question">What programming language do you want to learn?</string>
+</resources>
